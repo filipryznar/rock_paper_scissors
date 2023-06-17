@@ -1,0 +1,23 @@
+[33mcommit a04713ff0d7134e59a4d177fd5581fd452b37e68[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/rps-ui[m[33m, [m[1;32mrps-ui[m[33m)[m
+Author: filipryznar <103883095+filipryznar@users.noreply.github.com>
+Date:   Sat Jun 17 08:13:58 2023 +0200
+
+    Rework RPS game, add UI
+
+[33mcommit 148f76a7b33021a4ba73544d95b4f659c9a4aba0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mrps-[m[33m)[m
+Author: filipryznar <103883095+filipryznar@users.noreply.github.com>
+Date:   Thu May 25 19:24:39 2023 +0200
+
+    complete base of the game
+
+[33mcommit e34c6b48eafa5eac03a37d8c29286eb46ab8b8b6[m
+Author: filipryznar <103883095+filipryznar@users.noreply.github.com>
+Date:   Thu May 25 17:20:21 2023 +0200
+
+    add fucntion getComputerChoice
+
+[33mcommit b2d82530177139db53a329b07cd5cc3a42f18122[m
+Author: filipryznar <103883095+filipryznar@users.noreply.github.com>
+Date:   Wed May 24 18:28:51 2023 +0200
+
+    Initial commit
